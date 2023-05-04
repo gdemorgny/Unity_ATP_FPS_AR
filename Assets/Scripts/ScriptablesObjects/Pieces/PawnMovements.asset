@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Pion
   CanGoForward: 1
-  CanGoBackWard: 1
-  CanGoRight: 1
-  CanGoLeft: 1
+  CanGoBackWard: 0
+  CanGoRight: 0
+  CanGoLeft: 0
+  Description: 
